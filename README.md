@@ -1,5 +1,7 @@
 # 부스트캠프 AI Tech - p3-mrc-tajo
 
+![02](https://user-images.githubusercontent.com/55614265/116681368-db7eec80-a9e7-11eb-929e-799e78d6bc15.jpg)
+
 # 팀원
 
 | [김남혁_T1014](https://github.com/skaurl) | [서일_T1093](https://github.com/Usurper47) | [엄희준_T1122](https://github.com/eomheejun) | [우종빈_T1129](https://github.com/JongbinWoo) | [이보현_T1148](https://github.com/bonniehyeon) | [장보윤_T1178](https://github.com/dataminegames) |
