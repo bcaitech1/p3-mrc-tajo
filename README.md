@@ -8,7 +8,7 @@
 
 # Wiki
 
-[Daily Report](https://github.com/bcaitech1/p3-mrc-tajo/wiki)
+[Daily Report](https://github.com/bcaitech1/p3-mrc-tajo/wiki)를 작성하고 있습니다.
 
 # P3-Machine-Reading-Comprehension
 
