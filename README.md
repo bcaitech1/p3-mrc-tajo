@@ -1,6 +1,6 @@
 # 부스트캠프 AI Tech - p3-mrc-tajo
 
-![02](https://user-images.githubusercontent.com/55614265/116681368-db7eec80-a9e7-11eb-929e-799e78d6bc15.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/55614265/116681368-db7eec80-a9e7-11eb-929e-799e78d6bc15.jpg" height="630px" width="495px"/></p>
 
 # 팀원
 
