@@ -6,6 +6,10 @@
 
 <img width="985" alt="스크린샷 2021-05-20 21 25 26" src="https://user-images.githubusercontent.com/55614265/118978280-1904e300-b9b2-11eb-9a58-282175d51e8c.png">
 
+# Private Leaderboard
+
+<img width="985" alt="스크린샷 2021-05-20 23 29 22" src="https://user-images.githubusercontent.com/55614265/119060306-e50adb80-ba0c-11eb-8f4c-e2921308f133.png">
+
 # 팀원
 
 | [김남혁_T1014](https://github.com/skaurl) | [서일_T1093](https://github.com/Usurper47) | [엄희준_T1122](https://github.com/eomheejun) | [우종빈_T1129](https://github.com/JongbinWoo) | [이보현_T1148](https://github.com/bonniehyeon) | [장보윤_T1178](https://github.com/dataminegames) |
