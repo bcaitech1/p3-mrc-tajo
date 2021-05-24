@@ -19,12 +19,11 @@
 │   ├── compounds_test.pickle
 │   └── compounds_train.pickle
 └── sub_tasks
-    ├── compound.ipynb
+    ├── compound_nouns.ipynb
+    ├── question_type_tag.ipynb
     ├── evaluation.py
     ├── inference.py
     ├── load_data.py
-    ├── pororo_ner.ipynb
-    ├── requirements.txt
     ├── tagger.py
     ├── train.py
     └── data
